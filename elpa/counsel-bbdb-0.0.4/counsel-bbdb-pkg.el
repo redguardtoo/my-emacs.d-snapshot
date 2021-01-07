@@ -1,0 +1,2 @@
+;;; Generated package description from counsel-bbdb-0.0.4/counsel-bbdb.el  -*- no-byte-compile: t -*-
+(define-package "counsel-bbdb" "0.0.4" "Quick search&input email from BBDB based on ivy" '((ivy "0.8.0") (emacs "24.3")) :commit "df2890deb73b09f8055243bd91942ea887d9b7a1" :authors '(("Chen Bin <chenbin.sh AT gmail>")) :maintainer '("Chen Bin <chenbin.sh AT gmail>") :keywords '("mail" "abbrev" "convenience" "matching") :url "https://github.com/redguard/counsel-bbdb")

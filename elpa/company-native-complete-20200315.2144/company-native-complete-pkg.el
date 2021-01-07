@@ -1,0 +1,2 @@
+;;; Generated package description from company-native-complete-20200315.2144/company-native-complete.el  -*- no-byte-compile: t -*-
+(define-package "company-native-complete" "20200315.2144" "Company completion using native-complete" '((emacs "25.1") (company "0.9.0") (native-complete "0.1.0")) :commit "be7ced29c5a86e29c364f19d248634b8b54d0e52" :authors '(("Troy Hinckley" . "troy.hinckley@gmail.com")) :maintainer '("Troy Hinckley" . "troy.hinckley@gmail.com") :url "https://github.com/CeleritasCelery/emacs-native-shell-complete")

@@ -1,0 +1,2 @@
+;;; Generated package description from native-complete-20200814.2301/native-complete.el  -*- no-byte-compile: t -*-
+(define-package "native-complete" "20200814.2301" "Shell completion using native complete mechanisms" '((emacs "25.1")) :commit "be7ced29c5a86e29c364f19d248634b8b54d0e52" :authors '(("Troy Hinckley" . "troy.hinckley@gmail.com")) :maintainer '("Troy Hinckley" . "troy.hinckley@gmail.com") :url "https://github.com/CeleritasCelery/emacs-native-shell-complete")

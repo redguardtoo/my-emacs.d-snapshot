@@ -1,0 +1,2 @@
+;;; Generated package description from elpa-mirror-2.1.2/elpa-mirror.el  -*- no-byte-compile: t -*-
+(define-package "elpa-mirror" "2.1.2" "Create local package repository from installed packages" '((emacs "24.4")) :commit "cdd83ff9965d8df7aaf95e5d7751d2feabbd5493" :authors '(("Chen Bin" . "chenbin.sh@gmail.com")) :maintainer '("Chen Bin" . "chenbin.sh@gmail.com") :keywords '("tools") :url "http://github.com/redguardtoo/elpa-mirror")
